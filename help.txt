@@ -1,0 +1,3 @@
+this file contains basic git commands 
+ git --int to initialize the reo
+git add . // to tale snapshot
